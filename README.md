@@ -5,9 +5,9 @@ Esse repositório é uma aplicação web integrada a um banco de dados MySQL em 
 ### Componentes utilizados
 - EC2
 - RDS
-- DOCKER
-- JS
-- MYSQL
+- JavaScript
+- Docker
+- MySQL
 
 ### ATIVIDADES REALIZADAS
 
