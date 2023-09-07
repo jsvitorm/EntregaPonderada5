@@ -7,7 +7,7 @@ Esse repositório é uma aplicação web integrada a um banco de dados MySQL em 
 -RDS
 -DOCKER
 -JS
-MYSQL
+- MYSQL
 
 ### ATIVIDADES REALIZADAS
 
